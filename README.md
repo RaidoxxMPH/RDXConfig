@@ -1,17 +1,22 @@
                                       
                                       
-# RDXConfig
+# RDXConfig 
 Plug-in criado para servidores PocketMine-MP 4.
 Edição do Minecraft Bedrock (Mcbe / Mcpe). A revenda é proibida.
   (Use este plugin com sabedoria. [Link do Discord](https://discord.gg/aUPDRVf2FD) se precisar de ajuda com algo envie uma mensagem.)
+<p align="center">   
+ </a>  
+   <a href="https://discord.gg/aUPDRVf2FD">  
+      <img src="https://img.shields.io/discord/880157234628268062.svg?style=flat-square">  
+   </a>
+ </p>
 
-------------------------------------------------------------------------
 Plug-in created for PocketMine-MP 4 servers.
 Edition of Minecraft Bedrock (Mcbe / Mcpe). Resale is prohibited.
    (Use this plugin wisely. [Discord Link](https://discord.gg/aUPDRVf2FD) if you need help with something send a message.)
  
 
-# (BR)
+## (BR) 
 Plugin simples para configurar as permissões do seu servidor.
 
 Principais funções do plugin
@@ -25,7 +30,7 @@ Esse plugin tem uma config muito facil de interagir.
  coloque (true) para ligar a função ou (false) para desligar a função.
 
 -----------------------------------------------------------------------
-# (ENG)
+## (ENG) 
 Simple plugin to configure your server's permissions.
 
 Main functions of the plugin
