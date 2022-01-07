@@ -1,0 +1,7 @@
+---
+name: RDXConfig
+version: 0.0.2
+main: Raidoxx\RDXConfig\Main
+api: 4.0.2
+src-namespace-prefix: Raidoxx\RDXConfig
+...
